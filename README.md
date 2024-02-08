@@ -1,4 +1,4 @@
-- 🤖 About Me: Robotics Engineer | AI Enthusiast | Problem Solver
+🤖 About Me: Robotics Engineer | AI Enthusiast | Problem Solver
 
 Greetings! I'm Rushikesh Deshmukh, a passionate Robotics Engineer who graduated from Worcester Polytechnic Institute (WPI) in May 2023. My journey in engineering is fueled by a relentless commitment to applying innovative solutions to real-world challenges.
 
